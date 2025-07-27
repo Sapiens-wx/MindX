@@ -1,0 +1,6 @@
+[submodule "EEG_CNN"]
+	path = EEG_CNN
+	url = git@github.com:Sapiens-wx/EEG_CNN.git
+[submodule "BulletHell"]
+	path = BulletHell
+	url = git@github.com:Sapiens-wx/BulletHell.git
