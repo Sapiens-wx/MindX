@@ -19,15 +19,15 @@ A detailed instruction is written in each submodule's `README.md` file.
 If you don't want to access the source code and just want to play the game, goto the `/build` directory and click on `BulletHell3.exe.`
 
 ### Main Menu
-<img src="ReadmeResources/mainmenu.png" style="display: block; margin: auto; width: 50vw">
+<img src="ReadmeResources/mainmenu.png" style="display: block; margin: auto; width: 50vw" />
 Once you are in the game's main menu, click "choose game" to select one of the three games to play.
 
 ### Choose Game
-<img src="ReadmeResources/choosegame.png" style="display: block; margin: auto; width: 50vw">
+<img src="ReadmeResources/choosegame.png" style="display: block; margin: auto; width: 50vw" />
 After you clicked "choose game" in the main menu, you will need to select a game by clicking on one of the three cards at the bottom of the screen. Choose the one you want to play.
 
 ### In the game
-<img src="ReadmeResources/game.png" style="display: block; margin: auto; width: 50vw">
+<img src="ReadmeResources/game.png" style="display: block; margin: auto; width: 50vw" />
 
 When you want to exit the current game and choose another game, press `esc` and click "Back to Main Menu". 
 
